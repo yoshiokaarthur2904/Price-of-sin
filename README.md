@@ -1,2 +1,0 @@
-# Price-of-sin
-Videogame
